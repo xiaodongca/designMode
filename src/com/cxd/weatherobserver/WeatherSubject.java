@@ -1,7 +1,5 @@
 package com.cxd.weatherobserver;
 
-import com.cxd.observer.Observer;
-
 import java.util.ArrayList;
 import java.util.List;
 
